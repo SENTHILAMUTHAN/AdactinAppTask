@@ -19,6 +19,7 @@ public static void main(String[] args) {
 	WebDriver driver = new EdgeDriver();
 	driver.manage().window().maximize();
 	driver.get("https://adactinhotelapp.com/");
+	System.out.println("cloning trial 2");
 
 //LOGIN	
 	
